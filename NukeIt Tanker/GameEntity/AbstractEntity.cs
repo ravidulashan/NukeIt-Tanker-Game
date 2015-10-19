@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NukeIt_Tanker.GameEntity
 {
-    class Tank : AbstractEntity
+    abstract class AbstractEntity
     {
+        private int[] location;
     }
 }
