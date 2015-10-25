@@ -17,8 +17,9 @@ namespace NukeIt_Tanker
             //Application.EnableVisualStyles();
             //Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
-            string s = "Anuradha";
-            Console.WriteLine(s[0]);
+            SynchronousSocketListener.StartListening();
+          //  string s = "Anuradha";
+          //  Console.WriteLine(s[0]);
         }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Debug\NukeIt_Tanker.exe.config
+E:\Semester 4\Sem4 me\Programming Challenge 2\NukeIt-Tanker-Game\NukeIt Tanker\bin\Debug\NukeIt_Tanker.exe.config
+E:\Semester 4\Sem4 me\Programming Challenge 2\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt Tanker.csprojResolveAssemblyReference.cache
+E:\Semester 4\Sem4 me\Programming Challenge 2\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.Form1.resources
+E:\Semester 4\Sem4 me\Programming Challenge 2\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.Properties.Resources.resources
+E:\Semester 4\Sem4 me\Programming Challenge 2\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt Tanker.csproj.GenerateResource.Cache
