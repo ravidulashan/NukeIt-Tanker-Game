@@ -1,1 +1,9 @@
 C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Debug\NukeIt_Tanker.exe.config
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt Tanker.csprojResolveAssemblyReference.cache
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.Controller.resources
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.Properties.Resources.resources
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt Tanker.csproj.GenerateResource.Cache
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Debug\NukeIt_Tanker.exe
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Debug\NukeIt_Tanker.pdb
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.exe
+C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Debug\NukeIt_Tanker.pdb

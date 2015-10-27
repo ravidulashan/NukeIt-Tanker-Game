@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace NukeIt_Tanker.GameEntity.TimeOutableEntities
 {
-    interface TimeOutable
+    public interface TimeOutable
     {
-        public abstract int getTimeout();
+        int getTimeout();
     }
 }
