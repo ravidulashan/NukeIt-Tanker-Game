@@ -1,9 +1,0 @@
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Release\NukeIt_Tanker.exe.config
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt Tanker.csprojResolveAssemblyReference.cache
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt_Tanker.Form1.resources
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt_Tanker.Properties.Resources.resources
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt Tanker.csproj.GenerateResource.Cache
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Release\NukeIt_Tanker.exe
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\bin\Release\NukeIt_Tanker.pdb
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt_Tanker.exe
-C:\Users\Anuradha Sanjeewa\Documents\GitHub\NukeIt-Tanker-Game\NukeIt Tanker\obj\Release\NukeIt_Tanker.pdb
